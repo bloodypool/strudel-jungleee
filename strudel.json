@@ -1,0 +1,8 @@
+{
+  "samples": {
+    "take5": {
+      "audio": "audio/take5.mp3",
+      "slices": 16
+    }
+  }
+}
